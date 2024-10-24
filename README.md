@@ -2,20 +2,6 @@
 
 This is a super simple fileserver written to help me learn Golang.
 
-### Project Structure
-
-```
-.
-├── cmd/
-│   └── server/
-│       └── main.go
-├── internal/
-│   └── handlers/
-│       └── file_handler.go
-└── go.mod
-```
-
-
 ### Local Testing
 
 **Setting up the environment**
