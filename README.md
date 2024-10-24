@@ -2,6 +2,16 @@
 
 This is a super simple fileserver written to help me learn Golang.
 
+### Features
+
+This file server supports the following operations on single files:
+
+- Upload a file
+- List all files
+- Delete a file
+
+Multi-file uploads and directory creation are not yet supported.
+
 ### Local Testing
 
 **Setting up the environment**
