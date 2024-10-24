@@ -10,6 +10,7 @@ This file server supports the following operations on single files:
 - List all files
 - Delete a file
 
+The server uses local filesystem storage to persist uploaded files even after the container has been terminated.
 Multi-file uploads and directory creation are not yet supported.
 
 ### Local Testing
